@@ -1,27 +1,67 @@
-[<h1 align="center">Hi 👋, I'm Nabin Khadka</h1>
-<h3 align="center">A frontend developer from Nepal</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Nabin%20Khadka&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=A%20frontend%20developer%20from%20Nepal&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabinkdk7&label=Profile%20views&color=0e75b6&style=flat" alt="nabinkdk7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabinkdk7" alt="nabinkdk7" /></a> </p>
-
-- 🔭 I’m currently working on **Responsive Coffee Website**
-
-- 👨‍💻 All of my projects are available at [nabinkhadka.com](nabinkhadka.com)
-
-- 📫 How to reach me **nabinkhadkaofficial5@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nabin-khadka3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nabin-khadka3" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/nabin.khadka1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nabin.khadka1/" height="30" width="40" /></a>
-<a href="https://medium.com/@nabinkhadkaofficial5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nabinkhadkaofficial5" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@nabinfreelancer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@nabinfreelancer" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/52100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="52100" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%F0%9D%94%96%20%E2%80%A2%E2%94%80%E2%94%80%E2%94%80%20Stubbornness%20steps%20follow%20destiny%2C;Falls%20reflect%20life%20%E2%80%A2%E2%94%80%E2%94%80%E2%94%80%20%E0%BC%92%EF%B8%8E" alt="Typing introduction" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Nabinkdk7">
+    <img src="https://komarev.com/ghpvc/?username=Nabinkdk7&label=Profile%20views&color=00FFFF&style=flat-square" alt="Nabinkdk7's profile views" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabinkdk7&show_icons=true&locale=en&layout=compact" alt="nabinkdk7" /></p>
-](https://penninetechnolabs.com/wp-content/uploads/2025/10/wordpress-developer-roadmap-1.webp)
+<img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- 🔭 I’m currently working on a  Website Design
+- 🌱 I’m currently learning and improving my skills in HTML, CSS, WordPress, and AI
+- 👨‍💻 I’m a passionate Frontend Developer (Learner) focused on building clean and responsive web experiences
+- 🌐 Portfolio: nabinkhadka.com
+- 📫 How to reach me: nabinkhadkaofficial5@gmail.com
+
+
+## 🧠 My Focus Areas
+- Web Development
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Nabinkdk7">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nabinkdk7&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="Nabinkdk7's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Nabinkdk7&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="Nabinkdk7's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Nabinkdk7&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Nabin Khadka's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Nabinkdk7&theme=highcontrast&radius=10" alt="Nabinkdk7's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <a href="https://github.com/Nabinkdk7">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nabinkdk7&langs_count=8&layout=compact&theme=highcontrast&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center"><a href="www.linkedin.com/in/nabin-khadka3" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/9742483084" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.youtube.com/@NabinFreelancer" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Youtube" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:nabinkhadkaofficial5@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="nabinkhadka.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
