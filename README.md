@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20,29&text=Nabin%20Khadka&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Frontend%20%26%20WordPress%20Developer&descSize=17&descAlignY=54" width="100%" alt="Nabin Khadka — Frontend & WordPress Developer" />
+<img src="assets/header.svg" width="100%" alt="Nabin Khadka — Frontend & WordPress Developer" />
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 </div>
 
-<img width="100%" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='8'%20viewBox='0%200%201000%208'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1000'%20y2='0'%3E%3Cstop%20offset='0'%20stop-color='%2300d9ff'%20stop-opacity='0'/%3E%3Cstop%20offset='0.5'%20stop-color='%2300d9ff'/%3E%3Cstop%20offset='0.75'%20stop-color='%237b2ff7'/%3E%3Cstop%20offset='1'%20stop-color='%237b2ff7'%20stop-opacity='0'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='1000'%20height='8'%20fill='url(%23g)'/%3E%3C/svg%3E" alt="section divider" />
+<img width="100%" src="assets/divider.svg" alt="section divider" />
 
 ## 👋 About Me
 
@@ -44,7 +44,7 @@ I'm **Nabin Khadka** — a **Frontend & WordPress Developer** from Nepal who tur
 </tr>
 </table>
 
-<img width="100%" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='8'%20viewBox='0%200%201000%208'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1000'%20y2='0'%3E%3Cstop%20offset='0'%20stop-color='%2300d9ff'%20stop-opacity='0'/%3E%3Cstop%20offset='0.5'%20stop-color='%2300d9ff'/%3E%3Cstop%20offset='0.75'%20stop-color='%237b2ff7'/%3E%3Cstop%20offset='1'%20stop-color='%237b2ff7'%20stop-opacity='0'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='1000'%20height='8'%20fill='url(%23g)'/%3E%3C/svg%3E" alt="section divider" />
+<img width="100%" src="assets/divider.svg" alt="section divider" />
 
 ## 🛠️ Tech Stack
 
@@ -81,7 +81,7 @@ I'm **Nabin Khadka** — a **Frontend & WordPress Developer** from Nepal who tur
 
 </div>
 
-<img width="100%" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='8'%20viewBox='0%200%201000%208'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1000'%20y2='0'%3E%3Cstop%20offset='0'%20stop-color='%2300d9ff'%20stop-opacity='0'/%3E%3Cstop%20offset='0.5'%20stop-color='%2300d9ff'/%3E%3Cstop%20offset='0.75'%20stop-color='%237b2ff7'/%3E%3Cstop%20offset='1'%20stop-color='%237b2ff7'%20stop-opacity='0'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='1000'%20height='8'%20fill='url(%23g)'/%3E%3C/svg%3E" alt="section divider" />
+<img width="100%" src="assets/divider.svg" alt="section divider" />
 
 ## 📦 Projects
 
@@ -157,7 +157,7 @@ I'm **Nabin Khadka** — a **Frontend & WordPress Developer** from Nepal who tur
 </tr>
 </table>
 
-<img width="100%" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='8'%20viewBox='0%200%201000%208'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1000'%20y2='0'%3E%3Cstop%20offset='0'%20stop-color='%2300d9ff'%20stop-opacity='0'/%3E%3Cstop%20offset='0.5'%20stop-color='%2300d9ff'/%3E%3Cstop%20offset='0.75'%20stop-color='%237b2ff7'/%3E%3Cstop%20offset='1'%20stop-color='%237b2ff7'%20stop-opacity='0'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='1000'%20height='8'%20fill='url(%23g)'/%3E%3C/svg%3E" alt="section divider" />
+<img width="100%" src="assets/divider.svg" alt="section divider" />
 
 ## 📊 GitHub Stats
 
@@ -186,7 +186,7 @@ I'm **Nabin Khadka** — a **Frontend & WordPress Developer** from Nepal who tur
 
 </details>
 
-<img width="100%" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='8'%20viewBox='0%200%201000%208'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1000'%20y2='0'%3E%3Cstop%20offset='0'%20stop-color='%2300d9ff'%20stop-opacity='0'/%3E%3Cstop%20offset='0.5'%20stop-color='%2300d9ff'/%3E%3Cstop%20offset='0.75'%20stop-color='%237b2ff7'/%3E%3Cstop%20offset='1'%20stop-color='%237b2ff7'%20stop-opacity='0'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='1000'%20height='8'%20fill='url(%23g)'/%3E%3C/svg%3E" alt="section divider" />
+<img width="100%" src="assets/divider.svg" alt="section divider" />
 
 ## 🔗 Let's Connect
 
@@ -212,6 +212,6 @@ Made with 💙 by **Nabin Khadka**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20,29&section=footer" width="100%" alt="footer wave" />
+<img src="assets/footer.svg" width="100%" alt="footer wave" />
 
 </div>

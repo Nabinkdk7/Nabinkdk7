@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="280" viewBox="0 0 1080 280" role="img" aria-label="Nabin Khadka - Frontend and WordPress Developer">
+  <defs>
+    <linearGradient id="wdbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f0c3b"/>
+      <stop offset="0.5" stop-color="#191350"/>
+      <stop offset="1" stop-color="#0b2f3a"/>
+    </linearGradient>
+    <linearGradient id="wdwave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00d9ff"/>
+      <stop offset="1" stop-color="#7b2ff7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="280" fill="url(#wdbg)"/>
+  <path d="M0 226 C 200 196, 360 258, 560 242 S 920 206, 1080 232 L1080 280 L0 280 Z" fill="url(#wdwave)" opacity="0.9"/>
+  <path d="M0 252 C 240 226, 420 274, 640 258 S 920 230, 1080 254 L1080 280 L0 280 Z" fill="#00d9ff" opacity="0.3"/>
+  <text x="540" y="116" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">Nabin Khadka</text>
+  <text x="540" y="168" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="23" font-weight="600" fill="#00d9ff" text-anchor="middle" letter-spacing="5">FRONTEND &amp; WORDPRESS DEVELOPER</text>
+  <line x1="415" y1="196" x2="665" y2="196" stroke="url(#wdwave)" stroke-width="3" stroke-linecap="round"/>
+</svg>
