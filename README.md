@@ -4,6 +4,10 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Frontend+%26+WordPress+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+PHP;WordPress+%7C+Elementor+%7C+ACF+%7C+Divi+Builder;Open+for+freelance+projects" width="90%" alt="Rotating developer highlights" />
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=Nabinkdk7&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/badge/STATUS-Available%20for%20Remote%20Projects-2ECC71?style=for-the-badge" alt="Available for remote projects" />
 

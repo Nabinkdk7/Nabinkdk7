@@ -9,11 +9,44 @@
       <stop offset="0" stop-color="#00d9ff"/>
       <stop offset="1" stop-color="#7b2ff7"/>
     </linearGradient>
+    <radialGradient id="wdglow" cx="0.5" cy="0.35" r="0.6">
+      <stop offset="0" stop-color="#00d9ff" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#00d9ff" stop-opacity="0"/>
+    </radialGradient>
   </defs>
   <rect width="1080" height="280" fill="url(#wdbg)"/>
-  <path d="M0 226 C 200 196, 360 258, 560 242 S 920 206, 1080 232 L1080 280 L0 280 Z" fill="url(#wdwave)" opacity="0.9"/>
-  <path d="M0 252 C 240 226, 420 274, 640 258 S 920 230, 1080 254 L1080 280 L0 280 Z" fill="#00d9ff" opacity="0.3"/>
-  <text x="540" y="116" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">Nabin Khadka</text>
+  <rect width="1080" height="280" fill="url(#wdglow)">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M0 226 C 200 196, 360 258, 560 242 S 920 206, 1080 232 L1080 280 L0 280 Z" fill="url(#wdwave)" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -16 0; 0 0; 16 0; 0 0" dur="10s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 252 C 240 226, 420 274, 640 258 S 920 230, 1080 254 L1080 280 L0 280 Z" fill="#00d9ff" opacity="0.3">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 14 0; 0 0; -14 0; 0 0" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <g>
+    <animate attributeName="opacity" values="0;1" dur="1.4s" fill="freeze"/>
+    <text x="540" y="116" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">Nabin Khadka</text>
+  </g>
   <text x="540" y="168" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="23" font-weight="600" fill="#00d9ff" text-anchor="middle" letter-spacing="5">FRONTEND &amp; WORDPRESS DEVELOPER</text>
-  <line x1="415" y1="196" x2="665" y2="196" stroke="url(#wdwave)" stroke-width="3" stroke-linecap="round"/>
+  <g>
+    <animate attributeName="opacity" values="0;1" dur="1.6s" begin="0.35s" fill="freeze"/>
+    <line x1="415" y1="196" x2="665" y2="196" stroke="url(#wdwave)" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <circle cx="180" cy="120" r="3" fill="#00d9ff" opacity="0.7">
+    <animate attributeName="cy" values="110;145;110" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0.2;0.7" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="900" cy="150" r="2.5" fill="#7b2ff7" opacity="0.8">
+    <animate attributeName="cy" values="140;168;140" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="60" r="2" fill="#ffffff" opacity="0.5">
+    <animate attributeName="cy" values="55;78;55" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.15;0.5" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="760" cy="70" r="2.5" fill="#00d9ff" opacity="0.5">
+    <animate attributeName="cy" values="65;92;65" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.15;0.5" dur="8s" repeatCount="indefinite"/>
+  </circle>
 </svg>

@@ -5,6 +5,10 @@
       <stop offset="1" stop-color="#00d9ff"/>
     </linearGradient>
   </defs>
-  <path d="M0 0 L1080 0 L1080 62 C 920 32, 760 96, 540 80 C 340 66, 180 30, 0 54 Z" fill="url(#wdfooter)" opacity="0.9"/>
-  <path d="M0 0 L0 26 C 200 6, 380 60, 560 44 C 760 28, 900 10, 1080 30 L1080 0 Z" fill="#00d9ff" opacity="0.4"/>
+  <path d="M0 0 L1080 0 L1080 62 C 920 32, 760 96, 540 80 C 340 66, 180 30, 0 54 Z" fill="url(#wdfooter)" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -18 0; 0 0; 18 0; 0 0" dur="11s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 0 L0 26 C 200 6, 380 60, 560 44 C 760 28, 900 10, 1080 30 L1080 0 Z" fill="#00d9ff" opacity="0.4">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 15 0; 0 0; -15 0; 0 0" dur="8s" repeatCount="indefinite"/>
+  </path>
 </svg>
