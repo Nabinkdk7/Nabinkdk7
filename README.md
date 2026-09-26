@@ -18,6 +18,8 @@
 
 <img width="100%" src="assets/divider.svg" alt="section divider" />
 
+<br/>
+
 ## 👋 About Me
 
 Hi, I'm **Nabin Khadka** from **Tehrathum, Nepal**, a **Frontend & WordPress Developer** who turns designs into fast, beautiful, and memorable web experiences. As the site says: I build *"interfaces that feel premium at first click."*
@@ -43,9 +45,13 @@ I'm self-driven and always curious. I craft **100% responsive, fluid layouts** (
 
 <img width="100%" src="assets/divider.svg" alt="section divider" />
 
+<br/>
+
 ## 🛠️ My Tech Stack
 
 <div align="center">
+
+<br/>
 
 ### Languages
 
@@ -59,7 +65,7 @@ I'm self-driven and always curious. I craft **100% responsive, fluid layouts** (
 
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
 
@@ -77,6 +83,8 @@ I'm self-driven and always curious. I craft **100% responsive, fluid layouts** (
 </div>
 
 <img width="100%" src="assets/divider.svg" alt="section divider" />
+
+<br/>
 
 ## 📦 Projects
 
@@ -154,6 +162,8 @@ I'm self-driven and always curious. I craft **100% responsive, fluid layouts** (
 
 <img width="100%" src="assets/divider.svg" alt="section divider" />
 
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -182,6 +192,8 @@ I'm self-driven and always curious. I craft **100% responsive, fluid layouts** (
 </details>
 
 <img width="100%" src="assets/divider.svg" alt="section divider" />
+
+<br/>
 
 ## 🔗 Let's Connect
 
