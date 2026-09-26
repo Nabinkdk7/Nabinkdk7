@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Nabin Khadka — Frontend & WordPress Developer" />
+<img src="assets/header.svg" width="100%" alt="Nabin Khadka, Frontend & WordPress Developer" />
 
 <br/>
 
@@ -20,22 +20,22 @@
 
 ## 👋 About Me
 
-Hi, I'm **Nabin Khadka** from **Tehrathum, Nepal** — a **Frontend & WordPress Developer** who turns designs into fast, beautiful, and memorable web experiences. As the site says: I build *"interfaces that feel premium at first click."*
+Hi, I'm **Nabin Khadka** from **Tehrathum, Nepal**, a **Frontend & WordPress Developer** who turns designs into fast, beautiful, and memorable web experiences. As the site says: I build *"interfaces that feel premium at first click."*
 
-I'm self-driven and always curious. I craft **100% responsive, fluid layouts** (from 320px up to ultra-wide displays) with semantic **HTML5**, modern **CSS3** (Grid/Flexbox + system variables), and high-performance **vanilla JavaScript** with no bulky dependencies. On the WordPress side, I blend the design power of **Elementor with ACF and custom code** into fast, secure, scalable websites — including custom Gutenberg blocks and tailored PHP/CSS.
+I'm self-driven and always curious. I craft **100% responsive, fluid layouts** (from 320px up to ultra-wide displays) with semantic **HTML5**, modern **CSS3** (Grid/Flexbox + system variables), and high-performance **vanilla JavaScript** with no bulky dependencies. On the WordPress side, I blend the design power of **Elementor with ACF and custom code** into fast, secure, scalable websites, including custom Gutenberg blocks and tailored PHP/CSS.
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-- 🎯 **100% Responsive & Fluid** — pixel-perfect from 320px to ultra-wide displays
-- 🚀 **Performance-first** — clean, bloat-free builds targeting 100/100 Core Web Vitals
+- 🎯 **100% Responsive & Fluid**: pixel-perfect from 320px to ultra-wide displays
+- 🚀 **Performance-first**: clean, bloat-free builds targeting 100/100 Core Web Vitals
 
 </td>
 <td width="50%" valign="top">
 
-- 🧩 **WordPress powered** — Elementor, ACF & tailored PHP/CSS for custom, data-driven sites
-- 🌏 **Open to work** — available for remote freelance projects and collaborations
+- 🧩 **WordPress powered**: Elementor, ACF & tailored PHP/CSS for custom, data-driven sites
+- 🌏 **Open to work**: available for remote freelance projects and collaborations
 
 </td>
 </tr>
@@ -82,7 +82,7 @@ I'm self-driven and always curious. I craft **100% responsive, fluid layouts** (
 
 <div align="center">
 
-<sub>Real repos from my profile — languages and last-commit badges update automatically.</sub>
+<sub>Real repos from my profile: languages and last-commit badges update automatically.</sub>
 
 </div>
 
@@ -91,7 +91,7 @@ I'm self-driven and always curious. I craft **100% responsive, fluid layouts** (
 <td width="50%" valign="top">
 
 **🩺 [Web Health Doctor](https://github.com/Nabinkdk7/web-health-doctor)**\
-<sub>Chrome extension (MV3) that diagnoses any page on demand — DOM health, Core Web Vitals (LCP/CLS/INP), SEO, accessibility, responsiveness & tech stack, with a deep-debug suite and audit report exports. Runs 100% locally.</sub>
+<sub>Chrome extension (MV3) that diagnoses any page on demand: DOM health, Core Web Vitals (LCP/CLS/INP), SEO, accessibility, responsiveness & tech stack, with a deep-debug suite and audit report exports. Runs 100% locally.</sub>
 
 [![Last commit](https://img.shields.io/github/last-commit/Nabinkdk7/web-health-doctor?style=flat-square&logo=github&color=00D9FF)](https://github.com/Nabinkdk7/web-health-doctor)
 [![MV3 Extension](https://img.shields.io/badge/Chrome%20Extension-MV3-4285F4?style=flat-square)](https://github.com/Nabinkdk7/web-health-doctor)
@@ -100,7 +100,7 @@ I'm self-driven and always curious. I craft **100% responsive, fluid layouts** (
 <td width="50%" valign="top">
 
 **💬 [Nepali Quotes](https://github.com/Nabinkdk7/Nepali-Quotes)**\
-<sub>500+ handpicked Nepali quotes on love, life & motivation — clean UI, one-click copy, favorites, and fast bilingual (EN/NP) search.</sub>
+<sub>500+ handpicked Nepali quotes on love, life & motivation: clean UI, one-click copy, favorites, and fast bilingual (EN/NP) search.</sub>
 
 [![Last commit](https://img.shields.io/github/last-commit/Nabinkdk7/Nepali-Quotes?style=flat-square&logo=github&color=00D9FF)](https://github.com/Nabinkdk7/Nepali-Quotes)
 [![Top language](https://img.shields.io/github/languages/top/Nabinkdk7/Nepali-Quotes?style=flat-square)](https://github.com/Nabinkdk7/Nepali-Quotes)
@@ -111,7 +111,7 @@ I'm self-driven and always curious. I craft **100% responsive, fluid layouts** (
 <tr>
 <td width="50%" valign="top">
 
-**☕ [Nabin Coffee — Responsive Site](https://github.com/Nabinkdk7/Responsive-Coffee-Web)**\
+**☕ [Nabin Coffee Responsive Site](https://github.com/Nabinkdk7/Responsive-Coffee-Web)**\
 <sub>Mobile-first, fully responsive single-page site for a coffee shop in Kathmandu. Built with semantic HTML & CSS.</sub>
 
 [![Last commit](https://img.shields.io/github/last-commit/Nabinkdk7/Responsive-Coffee-Web?style=flat-square&logo=github&color=00D9FF)](https://github.com/Nabinkdk7/Responsive-Coffee-Web)
@@ -121,7 +121,7 @@ I'm self-driven and always curious. I craft **100% responsive, fluid layouts** (
 <td width="50%" valign="top">
 
 **⌚ [Responsive Watch Website](https://github.com/Nabinkdk7/Responsive-Watch-website)**\
-<sub>A performance-first, mobile-friendly showcase for watch brands — collections, pricing, and features laid out in an engaging structure.</sub>
+<sub>A performance-first, mobile-friendly showcase for watch brands: collections, pricing, and features laid out in an engaging structure.</sub>
 
 [![Last commit](https://img.shields.io/github/last-commit/Nabinkdk7/Responsive-Watch-website?style=flat-square&logo=github&color=00D9FF)](https://github.com/Nabinkdk7/Responsive-Watch-website)
 [![Top language](https://img.shields.io/github/languages/top/Nabinkdk7/Responsive-Watch-website?style=flat-square)](https://github.com/Nabinkdk7/Responsive-Watch-website)
@@ -132,7 +132,7 @@ I'm self-driven and always curious. I craft **100% responsive, fluid layouts** (
 <td width="50%" valign="top">
 
 **🍽️ [Responsive Food Restaurant Website](https://github.com/Nabinkdk7/Responsive-Food-Restaurant-Website)**\
-<sub>A fully responsive restaurant landing page — clean layout, smooth sections, and a live demo on Vercel.</sub>
+<sub>A fully responsive restaurant landing page with a clean layout, smooth sections, and a live demo on Vercel.</sub>
 
 [![Last commit](https://img.shields.io/github/last-commit/Nabinkdk7/Responsive-Food-Restaurant-Website?style=flat-square&logo=github&color=00D9FF)](https://github.com/Nabinkdk7/Responsive-Food-Restaurant-Website)
 [![Top language](https://img.shields.io/github/languages/top/Nabinkdk7/Responsive-Food-Restaurant-Website?style=flat-square)](https://github.com/Nabinkdk7/Responsive-Food-Restaurant-Website)
@@ -142,7 +142,7 @@ I'm self-driven and always curious. I craft **100% responsive, fluid layouts** (
 <td width="50%" valign="top">
 
 **🌐 [Portfolio Website](https://github.com/Nabinkdk7/my-Portfolio-website-)**\
-<sub>My personal frontend portfolio — clean, responsive, and performance-conscious. Live at nabin-kdk.vercel.app.</sub>
+<sub>My personal frontend portfolio: clean, responsive, and performance-conscious. Live at nabin-kdk.vercel.app.</sub>
 
 [![Last commit](https://img.shields.io/github/last-commit/Nabinkdk7/my-Portfolio-website-?style=flat-square&logo=github&color=00D9FF)](https://github.com/Nabinkdk7/my-Portfolio-website-)
 [![Top language](https://img.shields.io/github/languages/top/Nabinkdk7/my-Portfolio-website-?style=flat-square)](https://github.com/Nabinkdk7/my-Portfolio-website-)
