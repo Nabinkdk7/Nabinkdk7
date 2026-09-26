@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Nabin Khadka, Frontend & WordPress Developer" />
+<img src="assets/header.svg?v=2" width="100%" alt="Nabin Khadka, Frontend & WordPress Developer" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 </div>
 
-<img width="100%" src="assets/divider.svg" alt="section divider" />
+<img width="100%" src="assets/divider.svg?v=2" alt="section divider" />
 
 <br/>
 
@@ -47,7 +47,7 @@ I'm self-driven and always curious. I craft **100% responsive, fluid layouts** (
 </tr>
 </table>
 
-<img width="100%" src="assets/divider.svg" alt="section divider" />
+<img width="100%" src="assets/divider.svg?v=2" alt="section divider" />
 
 <br/>
 
@@ -86,7 +86,7 @@ I'm self-driven and always curious. I craft **100% responsive, fluid layouts** (
 
 </div>
 
-<img width="100%" src="assets/divider.svg" alt="section divider" />
+<img width="100%" src="assets/divider.svg?v=2" alt="section divider" />
 
 <br/>
 
@@ -164,7 +164,7 @@ I'm self-driven and always curious. I craft **100% responsive, fluid layouts** (
 </tr>
 </table>
 
-<img width="100%" src="assets/divider.svg" alt="section divider" />
+<img width="100%" src="assets/divider.svg?v=2" alt="section divider" />
 
 <br/>
 
@@ -195,7 +195,7 @@ I'm self-driven and always curious. I craft **100% responsive, fluid layouts** (
 
 </details>
 
-<img width="100%" src="assets/divider.svg" alt="section divider" />
+<img width="100%" src="assets/divider.svg?v=2" alt="section divider" />
 
 <br/>
 
@@ -223,6 +223,6 @@ Made with 💙 by **Nabin Khadka**
 
 <br/>
 
-<img src="assets/footer.svg" width="100%" alt="footer wave" />
+<img src="assets/footer.svg?v=2" width="100%" alt="footer wave" />
 
 </div>

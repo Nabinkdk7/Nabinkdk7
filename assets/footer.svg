@@ -1,14 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="140" viewBox="0 0 1080 140" role="presentation">
   <defs>
     <linearGradient id="wdfooter" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#7b2ff7"/>
-      <stop offset="1" stop-color="#00d9ff"/>
+      <stop offset="0" stop-color="#7b2ff7"><animate attributeName="stop-color" values="#7b2ff7;#00d9ff;#7b2ff7" dur="9s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#00d9ff"><animate attributeName="stop-color" values="#00d9ff;#7b2ff7;#00d9ff" dur="9s" repeatCount="indefinite"/></stop>
     </linearGradient>
   </defs>
-  <path d="M0 0 L1080 0 L1080 62 C 920 32, 760 96, 540 80 C 340 66, 180 30, 0 54 Z" fill="url(#wdfooter)" opacity="0.9">
-    <animateTransform attributeName="transform" type="translate" values="0 0; -18 0; 0 0; 18 0; 0 0" dur="11s" repeatCount="indefinite"/>
+  <path d="M0 0 L1080 0 L1080 62 C 920 32, 760 96, 540 80 C 340 66, 180 30, 0 54 Z" fill="url(#wdfooter)" opacity="0.95">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -24 0; 0 0; 24 0; 0 0" dur="7s" repeatCount="indefinite"/>
   </path>
-  <path d="M0 0 L0 26 C 200 6, 380 60, 560 44 C 760 28, 900 10, 1080 30 L1080 0 Z" fill="#00d9ff" opacity="0.4">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 15 0; 0 0; -15 0; 0 0" dur="8s" repeatCount="indefinite"/>
+  <path d="M0 0 L0 26 C 200 6, 380 60, 560 44 C 760 28, 900 10, 1080 30 L1080 0 Z" fill="#00d9ff" opacity="0.45">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 20 0; 0 0; -20 0; 0 0" dur="5s" repeatCount="indefinite"/>
   </path>
+  <circle cx="540" cy="120" r="3" fill="#ffffff" opacity="0.6">
+    <animate attributeName="cx" values="520;560;520" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.15;0.6" dur="6s" repeatCount="indefinite"/>
+  </circle>
 </svg>
