@@ -9,10 +9,22 @@
       <stop offset="0" stop-color="#00d9ff"><animate attributeName="stop-color" values="#00d9ff;#7b2ff7;#00d9ff" dur="8s" repeatCount="indefinite"/></stop>
       <stop offset="1" stop-color="#7b2ff7"><animate attributeName="stop-color" values="#7b2ff7;#00d9ff;#7b2ff7" dur="8s" repeatCount="indefinite"/></stop>
     </linearGradient>
+    <linearGradient id="nametext" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7b2ff7"><animate attributeName="stop-color" values="#7b2ff7;#ffd34d;#00d9ff;#7b2ff7" dur="5s" repeatCount="indefinite"/></stop>
+      <stop offset="0.5" stop-color="#00d9ff"><animate attributeName="stop-color" values="#00d9ff;#7b2ff7;#ffd34d;#00d9ff" dur="5s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#7b2ff7"><animate attributeName="stop-color" values="#ffd34d;#00d9ff;#7b2ff7;#ffd34d" dur="5s" repeatCount="indefinite"/></stop>
+    </linearGradient>
     <radialGradient id="wdglow" cx="0.5" cy="0.35" r="0.6">
       <stop offset="0" stop-color="#00d9ff" stop-opacity="0.35"/>
       <stop offset="1" stop-color="#00d9ff" stop-opacity="0"/>
     </radialGradient>
+    <filter id="txtglow" x="-30%" y="-50%" width="160%" height="240%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
   <rect width="1080" height="280" fill="url(#wdbg)"/>
   <rect width="1080" height="280" fill="url(#wdglow)">
@@ -34,18 +46,15 @@
   </path>
   <g>
     <animate attributeName="opacity" values="0;1" dur="1.4s" fill="freeze"/>
-    <text x="540" y="116" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">Nabin Khadka</text>
+    <text x="540" y="118" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="56" font-weight="800" fill="url(#nametext)" filter="url(#txtglow)" text-anchor="middle" letter-spacing="1.5">Nabin Khadka</text>
   </g>
-  <text x="540" y="168" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="23" font-weight="600" fill="#00d9ff" text-anchor="middle" letter-spacing="5">
+  <text x="540" y="170" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="23" font-weight="600" fill="#00d9ff" text-anchor="middle" letter-spacing="5">
     FRONTEND &amp; WORDPRESS DEVELOPER
     <animate attributeName="opacity" values="1;0.55;1" dur="2.6s" repeatCount="indefinite"/>
   </text>
-  <g>
-    <animate attributeName="opacity" values="0;1" dur="1.6s" begin="0.35s" fill="freeze"/>
-    <line x1="415" y1="196" x2="665" y2="196" stroke="url(#wdwave)" stroke-width="3" stroke-linecap="round" stroke-dasharray="60 190">
-      <animate attributeName="stroke-dashoffset" values="0;-500" dur="4s" repeatCount="indefinite"/>
-    </line>
-  </g>
+  <line x1="415" y1="198" x2="665" y2="198" stroke="url(#wdwave)" stroke-width="3" stroke-linecap="round" stroke-dasharray="60 190">
+    <animate attributeName="stroke-dashoffset" values="0;-500" dur="4s" repeatCount="indefinite"/>
+  </line>
   <circle cx="180" cy="120" r="3.5" fill="#00d9ff" opacity="0.8">
     <animate attributeName="cy" values="105;150;105" dur="4.5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.8;0.15;0.8" dur="4.5s" repeatCount="indefinite"/>
@@ -62,7 +71,7 @@
     <animate attributeName="cy" values="60;98;60" dur="7s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.6;0.15;0.6" dur="7s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="520" cy="220" r="2.5" fill="#ffffff" opacity="0.5">
+  <circle cx="520" cy="222" r="2.5" fill="#ffffff" opacity="0.5">
     <animate attributeName="cx" values="505;535;505" dur="5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.5;0.15;0.5" dur="5s" repeatCount="indefinite"/>
   </circle>
