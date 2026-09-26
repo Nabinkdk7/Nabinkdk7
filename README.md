@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Nabin%20Khadka&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=--%20Frontend%20Developer%20,WordPress%20Developer --&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Nabin%20Khadka&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=A%20frontend%20developer%20,WordPress%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%F0%9D%94%96%20%E2%80%A2%E2%94%80%E2%94%80%E2%94%80%20Stubbornness%20steps%20follow%20destiny%2C;Falls%20reflect%20life%20%E2%80%A2%E2%94%80%E2%94%80%E2%94%80%20%E0%BC%92%EF%B8%8E" alt="Typing introduction" />
