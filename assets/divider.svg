@@ -1,16 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="12" viewBox="0 0 1000 12" role="presentation">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="10" viewBox="0 0 1000 10" role="presentation">
   <defs>
-    <linearGradient id="wddivider" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#00d9ff" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#00d9ff"/>
-      <stop offset="1" stop-color="#7b2ff7" stop-opacity="0"/>
+    <linearGradient id="divline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#22D3EE" stop-opacity="0.55"/>
+      <stop offset="0.5" stop-color="#64748B" stop-opacity="0.7"/>
+      <stop offset="0.8" stop-color="#8B5CF6" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
     </linearGradient>
+    <filter id="dotglow" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="2.2"/>
+    </filter>
   </defs>
-  <line x1="0" y1="6" x2="1000" y2="6" stroke="url(#wddivider)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="140 860">
-    <animate attributeName="stroke-dashoffset" values="0;-2000" dur="5s" repeatCount="indefinite"/>
-  </line>
-  <circle cx="0" cy="6" r="3" fill="#ffffff" opacity="0">
-    <animate attributeName="cx" values="0;1000" dur="5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite"/>
+  <line x1="0" y1="5" x2="1000" y2="5" stroke="url(#divline)" stroke-width="1.2"/>
+  <circle cx="0" cy="5" r="2.4" fill="#67E8F9" filter="url(#dotglow)">
+    <animate attributeName="cx" values="0;1000" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0.9;0" dur="9s" repeatCount="indefinite"/>
   </circle>
 </svg>

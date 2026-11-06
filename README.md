@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="assets/hero.svg?v=2" width="100%" alt="Nabin Khadka, WordPress Developer — animated developer console" />
+<img src="assets/hero.svg?v=3" width="100%" alt="Nabin Khadka, WordPress Developer" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=820&lines=WordPress+Developer;Elementor+%7C+ACF+%7C+Divi+Builder;HTML+%7C+CSS+%7C+JavaScript;Responsive%2C+User-Friendly+Websites;Open+for+freelance+projects" width="92%" alt="Rotating developer highlights" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1200&color=67E8F9&center=true&vCenter=true&width=820&lines=WordPress+Developer;Elementor+%7C+ACF+%7C+Divi+Builder;HTML+%7C+CSS+%7C+JavaScript;Responsive%2C+User-Friendly+Websites;Open+for+freelance+projects" width="90%" alt="Rotating developer highlights" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Nabinkdk7&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/badge/STATUS-Available%20for%20Remote%20Projects-2ECC71?style=for-the-badge" alt="Available for remote projects" />
+<img src="https://komarev.com/ghpvc/?username=Nabinkdk7&label=PROFILE+VIEWS&color=0B1220&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/badge/STATUS-Available%20for%20Remote%20Projects-0E7490?style=flat-square&labelColor=0B1220" alt="Available for remote projects" />
 
 <br/><br/>
 
-<a href="https://nabinkhadka.com" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-nabinkhadka.com-1a1a2e?style=for-the-badge" alt="Portfolio" /></a>
-<a href="mailto:nabinkhadkaofficial5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%A7_Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/nabin-khadka3" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://wa.me/9742483084" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%92%AC_WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://nabinkhadka.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-nabinkhadka.com-0B1220?style=flat-square&logo=googlechrome&logoColor=67E8F9" alt="Portfolio" /></a>
+<a href="mailto:nabinkhadkaofficial5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Get%20In%20Touch-0B1220?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/nabin-khadka3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1220?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://wa.me/9742483084" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat-0B1220?style=flat-square&logo=whatsapp&logoColor=25D366" alt="WhatsApp" /></a>
 
 </div>
 
-<img width="100%" src="assets/divider.svg?v=3" alt="section divider" />
+<img width="100%" src="assets/divider.svg?v=4" alt="section divider" />
 
 ## 👋 About Me
 
@@ -47,60 +47,40 @@ I'm continuously learning new technologies and improving my development skills t
 </tr>
 </table>
 
-<img width="100%" src="assets/divider.svg?v=3" alt="section divider" />
+<img width="100%" src="assets/divider.svg?v=4" alt="section divider" />
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### WordPress & Ecosystem
+**WordPress & Ecosystem**
 
-<img src="https://skillicons.dev/icons?i=wordpress&perline=8" alt="WordPress" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
-<img src="https://img.shields.io/badge/ACF-00D66C?style=for-the-badge" alt="Advanced Custom Fields" />
-<img src="https://img.shields.io/badge/Divi%20Builder-6EC1E4?style=for-the-badge" alt="Divi Builder" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js&perline=8" alt="HTML, CSS and JavaScript" />
+<img src="https://img.shields.io/badge/WordPress-0B1220?style=flat-square&logo=wordpress&logoColor=67E8F9" alt="WordPress" />
+<img src="https://img.shields.io/badge/Elementor-0B1220?style=flat-square&logo=elementor&logoColor=F066A1" alt="Elementor" />
+<img src="https://img.shields.io/badge/ACF-0B1220?style=flat-square&logo=acf&logoColor=6EE7B7" alt="Advanced Custom Fields" />
+<img src="https://img.shields.io/badge/Divi%20Builder-0B1220?style=flat-square&logo=divi&logoColor=9AE6F5" alt="Divi Builder" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Responsive%20Design-Mobile%20First-00D9FF?style=for-the-badge" alt="Responsive Web Design" />
+**Frontend**
 
-</div>
-
-<br/>
-
-<div align="center">
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,chrome,vercel&perline=8" alt="Git, GitHub, VS Code, Chrome and Vercel" />
+<img src="https://img.shields.io/badge/HTML5-0B1220?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-0B1220?style=flat-square&logo=css3&logoColor=38BDF8" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-0B1220?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Responsive%20Design-0B1220?style=flat-square&logo=googlechrome&logoColor=67E8F9" alt="Responsive Web Design" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools" />
+**Tools**
+
+<img src="https://img.shields.io/badge/Git-0B1220?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=E6EDF3" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS%20Code-0B1220?style=flat-square&logo=visualstudiocode&logoColor=3BA0F0" alt="VS Code" />
+<img src="https://img.shields.io/badge/Chrome%20DevTools-0B1220?style=flat-square&logo=googlechrome&logoColor=E6EDF3" alt="Chrome DevTools" />
 
 </div>
 
-<img width="100%" src="assets/divider.svg?v=3" alt="section divider" />
+<img width="100%" src="assets/divider.svg?v=4" alt="section divider" />
 
 ## 📦 Selected Projects
 
@@ -118,8 +98,7 @@ I'm continuously learning new technologies and improving my development skills t
 
 <sub>Installable workday PWA with reminders, alarms, schedules and voice notifications. Mobile-first, offline-ready and built with plain JavaScript.</sub>
 
-[![Repo](https://img.shields.io/badge/Source-work--reminder--app-181717?style=flat-square&logo=github)](https://github.com/Nabinkdk7/work-reminder-app)
-[![Live](https://img.shields.io/badge/Live%20demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://workreminder-app.vercel.app)
+<sub>[Live demo ↗](https://workreminder-app.vercel.app) &nbsp;·&nbsp; [Source ↗](https://github.com/Nabinkdk7/work-reminder-app)</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -128,8 +107,7 @@ I'm continuously learning new technologies and improving my development skills t
 
 <sub>500+ handpicked Nepali quotes on love, life and motivation — clean UI, one-click copy, favourites and fast bilingual (English/Nepali) search.</sub>
 
-[![Repo](https://img.shields.io/badge/Source-Nepali--Quotes-181717?style=flat-square&logo=github)](https://github.com/Nabinkdk7/Nepali-Quotes)
-[![Live](https://img.shields.io/badge/Live%20demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://nepali-quotes.vercel.app)
+<sub>[Live demo ↗](https://nepali-quotes.vercel.app) &nbsp;·&nbsp; [Source ↗](https://github.com/Nabinkdk7/Nepali-Quotes)</sub>
 
 </td>
 </tr>
@@ -140,8 +118,7 @@ I'm continuously learning new technologies and improving my development skills t
 
 <sub>A performance-first watch storefront with collections, pricing and product features laid out in a clean, mobile-first layout.</sub>
 
-[![Repo](https://img.shields.io/badge/Source-Responsive--Watch--website-181717?style=flat-square&logo=github)](https://github.com/Nabinkdk7/Responsive-Watch-website)
-[![Live](https://img.shields.io/badge/Live%20demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://watch-store-hub.vercel.app)
+<sub>[Live demo ↗](https://watch-store-hub.vercel.app) &nbsp;·&nbsp; [Source ↗](https://github.com/Nabinkdk7/Responsive-Watch-website)</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -150,8 +127,7 @@ I'm continuously learning new technologies and improving my development skills t
 
 <sub>A browser extension that checks any page for performance, SEO, accessibility and responsiveness — with exportable reports, running 100% locally.</sub>
 
-[![Repo](https://img.shields.io/badge/Source-web--health--doctor-181717?style=flat-square&logo=github)](https://github.com/Nabinkdk7/web-health-doctor)
-[![MV3](https://img.shields.io/badge/Chrome%20Extension-MV3-4285F4?style=flat-square)](https://github.com/Nabinkdk7/web-health-doctor)
+<sub>[Source ↗](https://github.com/Nabinkdk7/web-health-doctor)</sub>
 
 </td>
 </tr>
@@ -162,8 +138,7 @@ I'm continuously learning new technologies and improving my development skills t
 
 <sub>A fully responsive restaurant landing page with a clean layout, smooth sections and a live demo on Vercel.</sub>
 
-[![Repo](https://img.shields.io/badge/Source-Responsive--Food--Restaurant-181717?style=flat-square&logo=github)](https://github.com/Nabinkdk7/Responsive-Food-Restaurant-Website)
-[![Live](https://img.shields.io/badge/Live%20demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://responsive-food-restaurant-website-tau.vercel.app)
+<sub>[Live demo ↗](https://responsive-food-restaurant-website-tau.vercel.app) &nbsp;·&nbsp; [Source ↗](https://github.com/Nabinkdk7/Responsive-Food-Restaurant-Website)</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -172,14 +147,13 @@ I'm continuously learning new technologies and improving my development skills t
 
 <sub>My personal portfolio — a fast, responsive showcase of my WordPress and frontend work.</sub>
 
-[![Repo](https://img.shields.io/badge/Source-Portfolio-181717?style=flat-square&logo=github)](https://github.com/Nabinkdk7/Nabin-Khadka---Portfolio)
-[![Live](https://img.shields.io/badge/Live%20site-22c55e?style=flat-square&logo=googlechrome&logoColor=white)](https://nabinkhadka.com)
+<sub>[Live site ↗](https://nabinkhadka.com) &nbsp;·&nbsp; [Source ↗](https://github.com/Nabinkdk7/Nabin-Khadka---Portfolio)</sub>
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="assets/divider.svg?v=3" alt="section divider" />
+<img width="100%" src="assets/divider.svg?v=4" alt="section divider" />
 
 ## 🚀 What I'm Doing Now
 
@@ -188,22 +162,22 @@ I'm continuously learning new technologies and improving my development skills t
 - ⚡ Learning more about **performance, accessibility and SEO**
 - 🤝 Open to **remote freelance projects** and collaborations
 
-<img width="100%" src="assets/divider.svg?v=3" alt="section divider" />
+<img width="100%" src="assets/divider.svg?v=4" alt="section divider" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nabinkdk7&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0D1117" alt="Nabin's GitHub stats" />
-<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nabinkdk7&layout=compact&langs_count=8&hide_border=true&border_radius=12&title_color=00D9FF&text_color=c9d1d9&bg_color=0D1117" alt="Nabin's most used languages" />
+<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nabinkdk7&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=14&title_color=67E8F9&icon_color=67E8F9&text_color=CBD5E1&bg_color=0B1220" alt="Nabin's GitHub stats" />
+<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nabinkdk7&layout=compact&langs_count=8&hide_border=true&border_radius=14&title_color=67E8F9&text_color=CBD5E1&bg_color=0B1220" alt="Nabin's most used languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Nabinkdk7&hide_border=true&border_radius=12&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" alt="Nabin's GitHub streak" width="70%" />
+<img src="https://streak-stats.demolab.com?user=Nabinkdk7&hide_border=true&border_radius=14&background=0B1220&ring=67E8F9&fire=8B5CF6&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B&stroke=1E293B" alt="Nabin's GitHub streak" width="70%" />
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/00D9FF/Nabinkdk7" alt="Nabin's contribution calendar" width="95%" />
+<img src="https://ghchart.rshah.org/67E8F9/Nabinkdk7" alt="Nabin's contribution calendar" width="95%" />
 
 </div>
 
@@ -229,7 +203,7 @@ I'm continuously learning new technologies and improving my development skills t
 
 </details>
 
-<img width="100%" src="assets/divider.svg?v=3" alt="section divider" />
+<img width="100%" src="assets/divider.svg?v=4" alt="section divider" />
 
 ## 🔗 Let's Connect
 
@@ -239,11 +213,11 @@ Have a project in mind, or just want to talk about WordPress and frontend develo
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/nabin-khadka3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://wa.me/9742483084" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-<a href="https://www.youtube.com/@NabinFreelancer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="mailto:nabinkhadkaofficial5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://nabinkhadka.com" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/nabin-khadka3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://wa.me/9742483084" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0B1220?style=flat-square&logo=whatsapp&logoColor=25D366" alt="WhatsApp" /></a>
+<a href="https://www.youtube.com/@NabinFreelancer" target="_blank"><img src="https://img.shields.io/badge/YouTube-0B1220?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
+<a href="mailto:nabinkhadkaofficial5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0B1220?style=flat-square&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>
+<a href="https://nabinkhadka.com" target="_blank"><img src="https://img.shields.io/badge/Website-0B1220?style=flat-square&logo=googlechrome&logoColor=67E8F9" alt="Website" /></a>
 
 </div>
 
@@ -255,6 +229,6 @@ Made with 💙 by **Nabin Khadka**
 
 <br/>
 
-<img src="assets/footer.svg?v=3" width="100%" alt="footer wave" />
+<img src="assets/footer.svg?v=4" width="100%" alt="footer" />
 
 </div>
