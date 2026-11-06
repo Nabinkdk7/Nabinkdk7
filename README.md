@@ -5,7 +5,7 @@
   <img src="assets/hero-light.svg?v=1" width="100%" alt="Nabin Khadka, WordPress Developer" />
 </picture>
 
-**● Available for remote projects** &nbsp;·&nbsp; [Portfolio](https://nabinkhadka.com) &nbsp;·&nbsp; [Email](mailto:nabinkhadkaofficial5@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/nabin-khadka3) &nbsp;·&nbsp; [WhatsApp](https://wa.me/9742483084)
+**● Available for remote projects** &nbsp;·&nbsp; <a href="https://nabinkhadka.com"><img src="assets/icons/portfolio.svg" width="15" height="15" align="absmiddle" alt="Portfolio" /> Portfolio</a> &nbsp;·&nbsp; <a href="mailto:nabinkhadkaofficial5@gmail.com"><img src="assets/icons/email.svg" width="15" height="15" align="absmiddle" alt="Email" /> Email</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/nabin-khadka3"><img src="assets/icons/linkedin.svg" width="15" height="15" align="absmiddle" alt="LinkedIn" /> LinkedIn</a> &nbsp;·&nbsp; <a href="https://wa.me/9742483084"><img src="assets/icons/whatsapp.svg" width="15" height="15" align="absmiddle" alt="WhatsApp" /> WhatsApp</a>
 
 </div>
 
@@ -41,8 +41,8 @@ I'm continuously learning new technologies and improving my development skills t
 ## 🛠️ Tech Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg?v=1" />
-  <img src="assets/stack-light.svg?v=1" width="100%" alt="Tech stack: WordPress, Elementor, ACF, Divi Builder, HTML, CSS, JavaScript, Responsive Design, Git, GitHub, VS Code, Chrome DevTools" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg?v=2" />
+  <img src="assets/stack-light.svg?v=2" width="100%" alt="Tech stack: WordPress, Elementor, ACF, Divi Builder, HTML, CSS, JavaScript, Responsive Design, Git, GitHub, VS Code, Chrome DevTools" />
 </picture>
 
 <img width="100%" src="assets/divider.svg?v=4" alt="section divider" />
