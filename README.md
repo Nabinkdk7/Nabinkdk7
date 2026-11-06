@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/header.svg?v=2" width="100%" alt="Nabin Khadka, Frontend & WordPress Developer" />
+<img src="assets/header.svg?v=3" width="100%" alt="Nabin Khadka, Frontend Engineer" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Frontend+%26+WordPress+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+PHP;WordPress+%7C+Elementor+%7C+ACF+%7C+Divi+Builder;Open+for+freelance+projects" width="90%" alt="Rotating developer highlights" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=820&lines=Frontend+Engineer+%E2%80%A2+React+%2B+TypeScript;Tailwind+CSS+%E2%80%A2+Vite+%E2%80%A2+TanStack;Chrome+Extensions+%2B+Installable+PWAs;WordPress+%E2%80%A2+Elementor+%2B+ACF+%2B+Custom+PHP;Open+for+freelance+%26+remote+projects" width="92%" alt="Rotating developer highlights" />
 
 <br/><br/>
 
@@ -20,46 +20,47 @@
 
 </div>
 
-<img width="100%" src="assets/divider.svg?v=2" alt="section divider" />
+<img width="100%" src="assets/divider.svg?v=3" alt="section divider" />
 
 ## 👋 About Me
 
-Hi, I'm **Nabin Khadka** from **Tehrathum, Nepal**, a **Frontend & WordPress Developer** who turns designs into fast, beautiful, and memorable web experiences. As the site says: I build *"interfaces that feel premium at first click."*
+I'm **Nabin Khadka**, a frontend engineer from **Tehrathum, Nepal**. I turn designs into fast, accessible products that feel premium at first click — from installable PWAs and Chrome extensions to React dashboards and WordPress sites.
 
-I'm self-driven and always curious. I craft **100% responsive, fluid layouts** (from 320px up to ultra-wide displays) with semantic **HTML5**, modern **CSS3** (Grid/Flexbox + system variables), and high-performance **vanilla JavaScript** with no bulky dependencies. On the WordPress side, I blend the design power of **Elementor with ACF and custom code** into fast, secure, scalable websites, including custom Gutenberg blocks and tailored PHP/CSS.
+I work mostly in **React 19, TypeScript, Tailwind CSS 4 and Vite**, with **TanStack Start/Router/Query** on the app side and **Radix UI + GSAP** for interaction and motion. On the WordPress side I combine **Elementor, ACF and custom PHP/CSS** into fast, secure, maintainable builds — including custom Gutenberg blocks.
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-- 🎯 **100% Responsive & Fluid**: pixel-perfect from 320px to ultra-wide displays
-- 🚀 **Performance-first**: clean, bloat-free builds targeting 100/100 Core Web Vitals
+- 🎯 **Responsive by default** — pixel-perfect from 320px to ultra-wide
+- 🚀 **Performance-first** — lean bundles, semantic HTML, no bloat
 
 </td>
 <td width="50%" valign="top">
 
-- 🧩 **WordPress powered**: Elementor, ACF & tailored PHP/CSS for custom, data-driven sites
-- 🌏 **Open to work**: available for remote freelance projects and collaborations
+- 🧩 **Ships real products** — PWAs, MV3 extensions, WordPress builds
+- 🌏 **Open to work** — remote freelance and long-term collaborations
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="assets/divider.svg?v=2" alt="section divider" />
+<img width="100%" src="assets/divider.svg?v=3" alt="section divider" />
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+### Core
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php&perline=8" alt="HTML, CSS, JavaScript & PHP" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=8" alt="HTML, CSS, JavaScript and TypeScript" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Basic%20PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Basic PHP" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 
 </div>
 
@@ -67,26 +68,47 @@ I'm self-driven and always curious. I craft **100% responsive, fluid layouts** (
 
 <div align="center">
 
-### WordPress Ecosystem
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=wordpress&perline=8" alt="WordPress" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,git,github,vercel&perline=8" alt="React, Tailwind CSS, Vite, Git, GitHub and Vercel" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS%204-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS 4" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack" />
+<img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### WordPress & Delivery
+
+<img src="https://skillicons.dev/icons?i=wordpress,php,figma,chrome&perline=8" alt="WordPress, PHP, Figma and Chrome" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
-<img src="https://img.shields.io/badge/Advanced%20Custom%20Fields-00D66C?style=for-the-badge" alt="Advanced Custom Fields (ACF)" />
-<img src="https://img.shields.io/badge/Divi%20Builder-6EC1E4?style=for-the-badge" alt="Divi Builder" />
+<img src="https://img.shields.io/badge/ACF-00D66C?style=for-the-badge" alt="Advanced Custom Fields" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Chrome%20MV3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Manifest V3" />
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="Progressive Web App" />
 
 </div>
 
-<img width="100%" src="assets/divider.svg?v=2" alt="section divider" />
+<img width="100%" src="assets/divider.svg?v=3" alt="section divider" />
 
-## 📦 Projects
+## 📦 Featured Projects
 
 <div align="center">
 
-<sub>Real repos from my profile: languages and last-commit badges update automatically.</sub>
+<sub>Selected work — every card links to the live product and the source.</sub>
 
 </div>
 
@@ -94,80 +116,93 @@ I'm self-driven and always curious. I craft **100% responsive, fluid layouts** (
 <tr>
 <td width="50%" valign="top">
 
-**🩺 [Web Health Doctor](https://github.com/Nabinkdk7/web-health-doctor)**\
-<sub>Chrome extension (MV3) that diagnoses any page on demand: DOM health, Core Web Vitals (LCP/CLS/INP), SEO, accessibility, responsiveness & tech stack, with a deep-debug suite and audit report exports. Runs 100% locally.</sub>
+### ⏰ [Work Reminder](https://workreminder-app.vercel.app)
+
+<sub>Installable workday PWA (v1.3.0) with reminders, alarms, schedules and voice notifications. Offline-ready, mobile-first, and built with vanilla JS for a tiny footprint.</sub>
+
+[![Repo](https://img.shields.io/badge/Source-work--reminder--app-181717?style=flat-square&logo=github)](https://github.com/Nabinkdk7/work-reminder-app)
+[![Live](https://img.shields.io/badge/Live%20demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://workreminder-app.vercel.app)
+[![PWA](https://img.shields.io/badge/PWA-installable-5A0FC8?style=flat-square)](https://workreminder-app.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 [Web Health Doctor](https://github.com/Nabinkdk7/web-health-doctor)
+
+<sub>Chrome extension (MV3) that audits any page on demand: DOM health, Core Web Vitals (LCP/CLS/INP), SEO, accessibility, responsiveness and tech stack — plus a deep-debug suite and exportable reports. Runs 100% locally.</sub>
 
 [![Last commit](https://img.shields.io/github/last-commit/Nabinkdk7/web-health-doctor?style=flat-square&logo=github&color=00D9FF)](https://github.com/Nabinkdk7/web-health-doctor)
-[![MV3 Extension](https://img.shields.io/badge/Chrome%20Extension-MV3-4285F4?style=flat-square)](https://github.com/Nabinkdk7/web-health-doctor)
-
-</td>
-<td width="50%" valign="top">
-
-**💬 [Nepali Quotes](https://github.com/Nabinkdk7/Nepali-Quotes)**\
-<sub>500+ handpicked Nepali quotes on love, life & motivation: clean UI, one-click copy, favorites, and fast bilingual (EN/NP) search.</sub>
-
-[![Last commit](https://img.shields.io/github/last-commit/Nabinkdk7/Nepali-Quotes?style=flat-square&logo=github&color=00D9FF)](https://github.com/Nabinkdk7/Nepali-Quotes)
-[![Top language](https://img.shields.io/github/languages/top/Nabinkdk7/Nepali-Quotes?style=flat-square)](https://github.com/Nabinkdk7/Nepali-Quotes)
-[![Live demo](https://img.shields.io/badge/Live%20demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://nepali-quotes.vercel.app)
+[![MV3](https://img.shields.io/badge/Chrome%20Extension-MV3-4285F4?style=flat-square)](https://github.com/Nabinkdk7/web-health-doctor)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**☕ [Nabin Coffee Responsive Site](https://github.com/Nabinkdk7/Responsive-Coffee-Web)**\
-<sub>Mobile-first, fully responsive single-page site for a coffee shop in Kathmandu. Built with semantic HTML & CSS.</sub>
+### 🏔️ [Western Whispers](https://western-whispers.vercel.app)
 
-[![Last commit](https://img.shields.io/github/last-commit/Nabinkdk7/Responsive-Coffee-Web?style=flat-square&logo=github&color=00D9FF)](https://github.com/Nabinkdk7/Responsive-Coffee-Web)
-[![HTML5 & CSS3](https://img.shields.io/badge/HTML5%20%26%20CSS3-Mobile-first-E34F26?style=flat-square)](https://github.com/Nabinkdk7/Responsive-Coffee-Web)
+<sub>Full-stack travel experience built with React 19, TanStack Start/Router/Query, Tailwind CSS 4 and Radix UI — typed end to end, with Zod validation and accessible components.</sub>
+
+[![Repo](https://img.shields.io/badge/Source-western--whispers-181717?style=flat-square&logo=github)](https://github.com/Nabinkdk7/western-whispers)
+[![Live](https://img.shields.io/badge/Live%20demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://western-whispers.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
-**⌚ [Responsive Watch Website](https://github.com/Nabinkdk7/Responsive-Watch-website)**\
-<sub>A performance-first, mobile-friendly showcase for watch brands: collections, pricing, and features laid out in an engaging structure.</sub>
+### 💬 [Nepali Quotes](https://nepali-quotes.vercel.app)
 
-[![Last commit](https://img.shields.io/github/last-commit/Nabinkdk7/Responsive-Watch-website?style=flat-square&logo=github&color=00D9FF)](https://github.com/Nabinkdk7/Responsive-Watch-website)
-[![Top language](https://img.shields.io/github/languages/top/Nabinkdk7/Responsive-Watch-website?style=flat-square)](https://github.com/Nabinkdk7/Responsive-Watch-website)
+<sub>500+ handpicked Nepali quotes on love, life and motivation — clean UI, one-click copy, favorites, and fast bilingual (English/Nepali) search.</sub>
+
+[![Repo](https://img.shields.io/badge/Source-Nepali--Quotes-181717?style=flat-square&logo=github)](https://github.com/Nabinkdk7/Nepali-Quotes)
+[![Live](https://img.shields.io/badge/Live%20demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://nepali-quotes.vercel.app)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🍽️ [Responsive Food Restaurant Website](https://github.com/Nabinkdk7/Responsive-Food-Restaurant-Website)**\
-<sub>A fully responsive restaurant landing page with a clean layout, smooth sections, and a live demo on Vercel.</sub>
+### ⌚ [Responsive Watch Website](https://watch-store-hub.vercel.app)
 
-[![Last commit](https://img.shields.io/github/last-commit/Nabinkdk7/Responsive-Food-Restaurant-Website?style=flat-square&logo=github&color=00D9FF)](https://github.com/Nabinkdk7/Responsive-Food-Restaurant-Website)
-[![Top language](https://img.shields.io/github/languages/top/Nabinkdk7/Responsive-Food-Restaurant-Website?style=flat-square)](https://github.com/Nabinkdk7/Responsive-Food-Restaurant-Website)
-[![Live demo](https://img.shields.io/badge/Live%20demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://responsive-food-restaurant-website-tau.vercel.app)
+<sub>Performance-first watch storefront: collections, pricing and product features laid out in a clean, mobile-first commerce layout.</sub>
+
+[![Repo](https://img.shields.io/badge/Source-Responsive--Watch--website-181717?style=flat-square&logo=github)](https://github.com/Nabinkdk7/Responsive-Watch-website)
+[![Live](https://img.shields.io/badge/Live%20demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://watch-store-hub.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
-**🌐 [Portfolio Website](https://github.com/Nabinkdk7/my-Portfolio-website-)**\
-<sub>My personal frontend portfolio: clean, responsive, and performance-conscious. Live at nabin-kdk.vercel.app.</sub>
+### 🌐 [Portfolio Website](https://nabinkhadka.com)
 
-[![Last commit](https://img.shields.io/github/last-commit/Nabinkdk7/my-Portfolio-website-?style=flat-square&logo=github&color=00D9FF)](https://github.com/Nabinkdk7/my-Portfolio-website-)
-[![Top language](https://img.shields.io/github/languages/top/Nabinkdk7/my-Portfolio-website-?style=flat-square)](https://github.com/Nabinkdk7/my-Portfolio-website-)
-[![Live demo](https://img.shields.io/badge/Live%20demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://nabin-kdk.vercel.app)
+<sub>My personal site — a fast, responsive showcase of frontend and WordPress work, with a focus on typography, motion and performance.</sub>
+
+[![Repo](https://img.shields.io/badge/Source-Portfolio-181717?style=flat-square&logo=github)](https://github.com/Nabinkdk7/Nabin-Khadka---Portfolio)
+[![Live](https://img.shields.io/badge/Live%20site-22c55e?style=flat-square&logo=googlechrome&logoColor=white)](https://nabinkhadka.com)
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="assets/divider.svg?v=2" alt="section divider" />
+<img width="100%" src="assets/divider.svg?v=3" alt="section divider" />
+
+## 🚀 What I'm Doing Now
+
+- 🔭 Building **Work Reminder** — shipping v1.4 with smarter schedules and better offline sync
+- 🧠 Learning **AI-assisted development** and applying it to real frontend workflows
+- 🧩 Exploring **Chrome extension architecture** — MV3, local-first tooling and audit automation
+- 🤝 Open for **remote freelance projects**: frontend builds, WordPress, landing pages and extension work
+
+<img width="100%" src="assets/divider.svg?v=3" alt="section divider" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nabinkdk7&show_icons=true&theme=radical&hide_border=true&border_radius=12&count_private=true" alt="Nabin's GitHub stats" />
-<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nabinkdk7&layout=compact&theme=radical&hide_border=true&border_radius=12" alt="Nabin's most used languages" />
+<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nabinkdk7&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0D1117" alt="Nabin's GitHub stats" />
+<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nabinkdk7&layout=compact&langs_count=8&hide_border=true&border_radius=12&title_color=00D9FF&text_color=c9d1d9&bg_color=0D1117" alt="Nabin's most used languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Nabinkdk7&theme=radical&hide_border=true&border_radius=12" alt="Nabin's GitHub streak" width="70%" />
+<img src="https://streak-stats.demolab.com?user=Nabinkdk7&hide_border=true&border_radius=12&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" alt="Nabin's GitHub streak" width="70%" />
 
 <br/><br/>
 
@@ -180,18 +215,18 @@ I'm self-driven and always curious. I craft **100% responsive, fluid layouts** (
 <br/>
 
 <div align="center">
-<img src="https://trophy.ryglcloud.net/?username=Nabinkdk7&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" width="95%" />
+<img src="https://trophy.ryglcloud.net/?username=Nabinkdk7&theme=algolia&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" width="95%" />
 </div>
 
 </details>
 
-<img width="100%" src="assets/divider.svg?v=2" alt="section divider" />
+<img width="100%" src="assets/divider.svg?v=3" alt="section divider" />
 
 ## 🔗 Let's Connect
 
 <div align="center">
 
-I'm always open to freelance projects, collaborations, or just a good conversation about code.
+Have a project in mind, or just want to talk about frontend, WordPress or AI? My inbox is open.
 
 <br/><br/>
 
@@ -211,6 +246,6 @@ Made with 💙 by **Nabin Khadka**
 
 <br/>
 
-<img src="assets/footer.svg?v=2" width="100%" alt="footer wave" />
+<img src="assets/footer.svg?v=3" width="100%" alt="footer wave" />
 
 </div>
