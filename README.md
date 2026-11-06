@@ -1,18 +1,10 @@
 <div align="center">
 
-<img src="assets/hero.svg?v=3" width="100%" alt="Nabin Khadka, WordPress Developer" />
+<img src="assets/hero.svg?v=4" width="100%" alt="Nabin Khadka, WordPress Developer" />
 
-<br/>
+**● Available for remote projects** &nbsp;·&nbsp; [Portfolio](https://nabinkhadka.com) &nbsp;·&nbsp; [Email](mailto:nabinkhadkaofficial5@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/nabin-khadka3) &nbsp;·&nbsp; [WhatsApp](https://wa.me/9742483084)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1200&color=67E8F9&center=true&vCenter=true&width=820&lines=WordPress+Developer;Elementor+%7C+ACF+%7C+Divi+Builder;HTML+%7C+CSS+%7C+JavaScript;Responsive%2C+User-Friendly+Websites;Open+for+freelance+projects" width="90%" alt="Rotating developer highlights" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Available%20for%20remote%20projects-0E7490?style=flat-square" alt="Available for remote projects" />
-
-<br/><br/>
-
-[Portfolio](https://nabinkhadka.com) &nbsp;·&nbsp; [Email](mailto:nabinkhadkaofficial5@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/nabin-khadka3) &nbsp;·&nbsp; [WhatsApp](https://wa.me/9742483084)
+</div>
 
 </div>
 
