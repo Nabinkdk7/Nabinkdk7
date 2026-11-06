@@ -8,15 +8,11 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Nabinkdk7&label=PROFILE+VIEWS&color=0B1220&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/badge/STATUS-Available%20for%20Remote%20Projects-0E7490?style=flat-square&labelColor=0B1220" alt="Available for remote projects" />
+<img src="https://img.shields.io/badge/Available%20for%20remote%20projects-0E7490?style=flat-square" alt="Available for remote projects" />
 
 <br/><br/>
 
-<a href="https://nabinkhadka.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-nabinkhadka.com-0B1220?style=flat-square&logo=googlechrome&logoColor=67E8F9" alt="Portfolio" /></a>
-<a href="mailto:nabinkhadkaofficial5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Get%20In%20Touch-0B1220?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/nabin-khadka3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1220?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-<a href="https://wa.me/9742483084" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat-0B1220?style=flat-square&logo=whatsapp&logoColor=25D366" alt="WhatsApp" /></a>
+[Portfolio](https://nabinkhadka.com) &nbsp;·&nbsp; [Email](mailto:nabinkhadkaofficial5@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/nabin-khadka3) &nbsp;·&nbsp; [WhatsApp](https://wa.me/9742483084)
 
 </div>
 
@@ -51,34 +47,10 @@ I'm continuously learning new technologies and improving my development skills t
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**WordPress & Ecosystem**
-
-<img src="https://img.shields.io/badge/WordPress-0B1220?style=flat-square&logo=wordpress&logoColor=67E8F9" alt="WordPress" />
-<img src="https://img.shields.io/badge/Elementor-0B1220?style=flat-square&logo=elementor&logoColor=F066A1" alt="Elementor" />
-<img src="https://img.shields.io/badge/ACF-0B1220?style=flat-square&logo=acf&logoColor=6EE7B7" alt="Advanced Custom Fields" />
-<img src="https://img.shields.io/badge/Divi%20Builder-0B1220?style=flat-square&logo=divi&logoColor=9AE6F5" alt="Divi Builder" />
-
-<br/><br/>
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/HTML5-0B1220?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-0B1220?style=flat-square&logo=css3&logoColor=38BDF8" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-0B1220?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Responsive%20Design-0B1220?style=flat-square&logo=googlechrome&logoColor=67E8F9" alt="Responsive Web Design" />
-
-<br/><br/>
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-0B1220?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=E6EDF3" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS%20Code-0B1220?style=flat-square&logo=visualstudiocode&logoColor=3BA0F0" alt="VS Code" />
-<img src="https://img.shields.io/badge/Chrome%20DevTools-0B1220?style=flat-square&logo=googlechrome&logoColor=E6EDF3" alt="Chrome DevTools" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg?v=1" />
+  <img src="assets/stack-light.svg?v=1" width="100%" alt="Tech stack: WordPress, Elementor, ACF, Divi Builder, HTML, CSS, JavaScript, Responsive Design, Git, GitHub, VS Code, Chrome DevTools" />
+</picture>
 
 <img width="100%" src="assets/divider.svg?v=4" alt="section divider" />
 
