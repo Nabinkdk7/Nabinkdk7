@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="assets/hero.svg?v=4" width="100%" alt="Nabin Khadka, WordPress Developer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero.svg?v=5" />
+  <img src="assets/hero-light.svg?v=1" width="100%" alt="Nabin Khadka, WordPress Developer" />
+</picture>
 
 **● Available for remote projects** &nbsp;·&nbsp; [Portfolio](https://nabinkhadka.com) &nbsp;·&nbsp; [Email](mailto:nabinkhadkaofficial5@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/nabin-khadka3) &nbsp;·&nbsp; [WhatsApp](https://wa.me/9742483084)
-
-</div>
 
 </div>
 
@@ -153,7 +154,10 @@ I'm continuously learning new technologies and improving my development skills t
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Nabinkdk7/Nabinkdk7/output/github-snake-dark.svg" alt="Animated contribution snake" width="95%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nabinkdk7/Nabinkdk7/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Nabinkdk7/Nabinkdk7/output/github-snake.svg" alt="Animated contribution snake" width="95%" />
+</picture>
 
 </div>
 
