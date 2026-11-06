@@ -5,7 +5,9 @@
   <img src="assets/hero-light.svg?v=1" width="100%" alt="Nabin Khadka, WordPress Developer" />
 </picture>
 
-**● Available for remote projects** &nbsp;·&nbsp; <a href="https://nabinkhadka.com"><img src="assets/icons/portfolio.svg" width="15" height="15" align="absmiddle" alt="Portfolio" /> Portfolio</a> &nbsp;·&nbsp; <a href="mailto:nabinkhadkaofficial5@gmail.com"><img src="assets/icons/email.svg" width="15" height="15" align="absmiddle" alt="Email" /> Email</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/nabin-khadka3"><img src="assets/icons/linkedin.svg" width="15" height="15" align="absmiddle" alt="LinkedIn" /> LinkedIn</a> &nbsp;·&nbsp; <a href="https://wa.me/9742483084"><img src="assets/icons/whatsapp.svg" width="15" height="15" align="absmiddle" alt="WhatsApp" /> WhatsApp</a>
+**● Available for remote projects**
+<br/>
+<a href="https://nabinkhadka.com" title="Portfolio"><img src="assets/icons/portfolio.svg" width="20" height="20" alt="Portfolio" /></a> &nbsp;&nbsp; <a href="mailto:nabinkhadkaofficial5@gmail.com" title="Email"><img src="assets/icons/email.svg" width="20" height="20" alt="Email" /></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/nabin-khadka3" title="LinkedIn"><img src="assets/icons/linkedin.svg" width="20" height="20" alt="LinkedIn" /></a> &nbsp;&nbsp; <a href="https://wa.me/9742483084" title="WhatsApp"><img src="assets/icons/whatsapp.svg" width="20" height="20" alt="WhatsApp" /></a>
 
 </div>
 
