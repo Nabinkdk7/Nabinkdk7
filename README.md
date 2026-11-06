@@ -22,21 +22,6 @@
 
 <img width="100%" src="assets/divider.svg?v=3" alt="section divider" />
 
-## 🧑‍💻 Developer Mode
-
-```ts
-const nabin = {
-  role: "Frontend Engineer",
-  location: "Tehrathum, Nepal",
-  focus: ["React 19", "TypeScript", "Tailwind CSS 4", "Vite", "TanStack"],
-  also: ["WordPress", "Elementor", "ACF", "Chrome MV3", "PWA"],
-  principle: "Ship fast, accessible interfaces that feel premium at first click.",
-  status: "open to remote work",
-} as const;
-```
-
-<img width="100%" src="assets/divider.svg?v=3" alt="section divider" />
-
 ## 👋 About Me
 
 I'm **Nabin Khadka**, a frontend engineer from **Tehrathum, Nepal**. I turn designs into fast, accessible products that feel premium at first click — from installable PWAs and Chrome extensions to React dashboards and WordPress sites.
@@ -59,6 +44,19 @@ I work mostly in **React 19, TypeScript, Tailwind CSS 4 and Vite**, with **TanSt
 </td>
 </tr>
 </table>
+
+## 🧑‍💻 Developer Mode
+
+```ts
+const nabin = {
+  role: "Frontend Engineer",
+  location: "Tehrathum, Nepal",
+  focus: ["React 19", "TypeScript", "Tailwind CSS 4", "Vite", "TanStack"],
+  also: ["WordPress", "Elementor", "ACF", "Chrome MV3", "PWA"],
+  principle: "Ship fast, accessible interfaces that feel premium at first click.",
+  status: "open to remote work",
+} as const;
+```
 
 <img width="100%" src="assets/divider.svg?v=3" alt="section divider" />
 
