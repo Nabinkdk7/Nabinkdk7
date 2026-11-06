@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/hero.svg?v=1" width="100%" alt="Nabin Khadka, Frontend Engineer — animated developer console" />
+<img src="assets/hero.svg?v=2" width="100%" alt="Nabin Khadka, WordPress Developer — animated developer console" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=820&lines=Frontend+Engineer+%E2%80%A2+React+%2B+TypeScript;Tailwind+CSS+%E2%80%A2+Vite+%E2%80%A2+TanStack;Chrome+Extensions+%2B+Installable+PWAs;WordPress+%E2%80%A2+Elementor+%2B+ACF+%2B+Custom+PHP;Open+for+freelance+%26+remote+projects" width="92%" alt="Rotating developer highlights" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=820&lines=WordPress+Developer;Elementor+%7C+ACF+%7C+Divi+Builder;HTML+%7C+CSS+%7C+JavaScript;Responsive%2C+User-Friendly+Websites;Open+for+freelance+projects" width="92%" alt="Rotating developer highlights" />
 
 <br/><br/>
 
@@ -24,39 +24,28 @@
 
 ## 👋 About Me
 
-I'm **Nabin Khadka**, a frontend engineer from **Tehrathum, Nepal**. I turn designs into fast, accessible products that feel premium at first click — from installable PWAs and Chrome extensions to React dashboards and WordPress sites.
+Hi, I'm **Nabin Khadka**, a self-taught **WordPress Developer** focused on building clean, responsive and user-friendly websites.
 
-I work mostly in **React 19, TypeScript, Tailwind CSS 4 and Vite**, with **TanStack Start/Router/Query** on the app side and **Radix UI + GSAP** for interaction and motion. On the WordPress side I combine **Elementor, ACF and custom PHP/CSS** into fast, secure, maintainable builds — including custom Gutenberg blocks.
+I work with **WordPress, Elementor, ACF, Divi Builder, HTML, CSS and JavaScript**. I enjoy turning ideas and designs into functional websites, while paying attention to performance, usability and clean implementation.
+
+I'm continuously learning new technologies and improving my development skills through real-world projects and hands-on experience.
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-- 🎯 **Responsive by default** — pixel-perfect from 320px to ultra-wide
-- 🚀 **Performance-first** — lean bundles, semantic HTML, no bloat
+- 🎯 **Clean & responsive** — layouts that work from mobile to desktop
+- 🧩 **WordPress-first** — Elementor, ACF and Divi builds
 
 </td>
 <td width="50%" valign="top">
 
-- 🧩 **Ships real products** — PWAs, MV3 extensions, WordPress builds
-- 🌏 **Open to work** — remote freelance and long-term collaborations
+- 🚀 **Performance & usability** — fast pages, clear structure
+- 🌏 **Open to work** — remote freelance projects
 
 </td>
 </tr>
 </table>
-
-## 🧑‍💻 Developer Mode
-
-```ts
-const nabin = {
-  role: "Frontend Engineer",
-  location: "Tehrathum, Nepal",
-  focus: ["React 19", "TypeScript", "Tailwind CSS 4", "Vite", "TanStack"],
-  also: ["WordPress", "Elementor", "ACF", "Chrome MV3", "PWA"],
-  principle: "Ship fast, accessible interfaces that feel premium at first click.",
-  status: "open to remote work",
-} as const;
-```
 
 <img width="100%" src="assets/divider.svg?v=3" alt="section divider" />
 
@@ -64,16 +53,16 @@ const nabin = {
 
 <div align="center">
 
-### Core
+### WordPress & Ecosystem
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=8" alt="HTML, CSS, JavaScript and TypeScript" />
+<img src="https://skillicons.dev/icons?i=wordpress&perline=8" alt="WordPress" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+<img src="https://img.shields.io/badge/ACF-00D66C?style=for-the-badge" alt="Advanced Custom Fields" />
+<img src="https://img.shields.io/badge/Divi%20Builder-6EC1E4?style=for-the-badge" alt="Divi Builder" />
 
 </div>
 
@@ -83,16 +72,14 @@ const nabin = {
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,git,github,vercel&perline=8" alt="React, Tailwind CSS, Vite, Git, GitHub and Vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js&perline=8" alt="HTML, CSS and JavaScript" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS%204-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS 4" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack" />
-<img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI" />
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Responsive%20Design-Mobile%20First-00D9FF?style=for-the-badge" alt="Responsive Web Design" />
 
 </div>
 
@@ -100,28 +87,26 @@ const nabin = {
 
 <div align="center">
 
-### WordPress & Delivery
+### Tools
 
-<img src="https://skillicons.dev/icons?i=wordpress,php,figma,chrome&perline=8" alt="WordPress, PHP, Figma and Chrome" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,chrome,vercel&perline=8" alt="Git, GitHub, VS Code, Chrome and Vercel" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
-<img src="https://img.shields.io/badge/ACF-00D66C?style=for-the-badge" alt="Advanced Custom Fields" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Chrome%20MV3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Manifest V3" />
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="Progressive Web App" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools" />
 
 </div>
 
 <img width="100%" src="assets/divider.svg?v=3" alt="section divider" />
 
-## 📦 Featured Projects
+## 📦 Selected Projects
 
 <div align="center">
 
-<sub>Selected work — every card links to the live product and the source.</sub>
+<sub>A few websites and apps I've built — each card links to the live project and the source.</sub>
 
 </div>
 
@@ -131,40 +116,17 @@ const nabin = {
 
 ### ⏰ [Work Reminder](https://workreminder-app.vercel.app)
 
-<sub>Installable workday PWA (v1.3.0) with reminders, alarms, schedules and voice notifications. Offline-ready, mobile-first, and built with vanilla JS for a tiny footprint.</sub>
+<sub>Installable workday PWA with reminders, alarms, schedules and voice notifications. Mobile-first, offline-ready and built with plain JavaScript.</sub>
 
 [![Repo](https://img.shields.io/badge/Source-work--reminder--app-181717?style=flat-square&logo=github)](https://github.com/Nabinkdk7/work-reminder-app)
 [![Live](https://img.shields.io/badge/Live%20demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://workreminder-app.vercel.app)
-[![PWA](https://img.shields.io/badge/PWA-installable-5A0FC8?style=flat-square)](https://workreminder-app.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 🩺 [Web Health Doctor](https://github.com/Nabinkdk7/web-health-doctor)
-
-<sub>Chrome extension (MV3) that audits any page on demand: DOM health, Core Web Vitals (LCP/CLS/INP), SEO, accessibility, responsiveness and tech stack — plus a deep-debug suite and exportable reports. Runs 100% locally.</sub>
-
-[![Last commit](https://img.shields.io/github/last-commit/Nabinkdk7/web-health-doctor?style=flat-square&logo=github&color=00D9FF)](https://github.com/Nabinkdk7/web-health-doctor)
-[![MV3](https://img.shields.io/badge/Chrome%20Extension-MV3-4285F4?style=flat-square)](https://github.com/Nabinkdk7/web-health-doctor)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏔️ [Western Whispers](https://western-whispers.vercel.app)
-
-<sub>Full-stack travel experience built with React 19, TanStack Start/Router/Query, Tailwind CSS 4 and Radix UI — typed end to end, with Zod validation and accessible components.</sub>
-
-[![Repo](https://img.shields.io/badge/Source-western--whispers-181717?style=flat-square&logo=github)](https://github.com/Nabinkdk7/western-whispers)
-[![Live](https://img.shields.io/badge/Live%20demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://western-whispers.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
 ### 💬 [Nepali Quotes](https://nepali-quotes.vercel.app)
 
-<sub>500+ handpicked Nepali quotes on love, life and motivation — clean UI, one-click copy, favorites, and fast bilingual (English/Nepali) search.</sub>
+<sub>500+ handpicked Nepali quotes on love, life and motivation — clean UI, one-click copy, favourites and fast bilingual (English/Nepali) search.</sub>
 
 [![Repo](https://img.shields.io/badge/Source-Nepali--Quotes-181717?style=flat-square&logo=github)](https://github.com/Nabinkdk7/Nepali-Quotes)
 [![Live](https://img.shields.io/badge/Live%20demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://nepali-quotes.vercel.app)
@@ -176,7 +138,7 @@ const nabin = {
 
 ### ⌚ [Responsive Watch Website](https://watch-store-hub.vercel.app)
 
-<sub>Performance-first watch storefront: collections, pricing and product features laid out in a clean, mobile-first commerce layout.</sub>
+<sub>A performance-first watch storefront with collections, pricing and product features laid out in a clean, mobile-first layout.</sub>
 
 [![Repo](https://img.shields.io/badge/Source-Responsive--Watch--website-181717?style=flat-square&logo=github)](https://github.com/Nabinkdk7/Responsive-Watch-website)
 [![Live](https://img.shields.io/badge/Live%20demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://watch-store-hub.vercel.app)
@@ -184,9 +146,31 @@ const nabin = {
 </td>
 <td width="50%" valign="top">
 
+### 🩺 [Web Health Doctor](https://github.com/Nabinkdk7/web-health-doctor)
+
+<sub>A browser extension that checks any page for performance, SEO, accessibility and responsiveness — with exportable reports, running 100% locally.</sub>
+
+[![Repo](https://img.shields.io/badge/Source-web--health--doctor-181717?style=flat-square&logo=github)](https://github.com/Nabinkdk7/web-health-doctor)
+[![MV3](https://img.shields.io/badge/Chrome%20Extension-MV3-4285F4?style=flat-square)](https://github.com/Nabinkdk7/web-health-doctor)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ [Food Restaurant Website](https://responsive-food-restaurant-website-tau.vercel.app)
+
+<sub>A fully responsive restaurant landing page with a clean layout, smooth sections and a live demo on Vercel.</sub>
+
+[![Repo](https://img.shields.io/badge/Source-Responsive--Food--Restaurant-181717?style=flat-square&logo=github)](https://github.com/Nabinkdk7/Responsive-Food-Restaurant-Website)
+[![Live](https://img.shields.io/badge/Live%20demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://responsive-food-restaurant-website-tau.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🌐 [Portfolio Website](https://nabinkhadka.com)
 
-<sub>My personal site — a fast, responsive showcase of frontend and WordPress work, with a focus on typography, motion and performance.</sub>
+<sub>My personal portfolio — a fast, responsive showcase of my WordPress and frontend work.</sub>
 
 [![Repo](https://img.shields.io/badge/Source-Portfolio-181717?style=flat-square&logo=github)](https://github.com/Nabinkdk7/Nabin-Khadka---Portfolio)
 [![Live](https://img.shields.io/badge/Live%20site-22c55e?style=flat-square&logo=googlechrome&logoColor=white)](https://nabinkhadka.com)
@@ -199,10 +183,10 @@ const nabin = {
 
 ## 🚀 What I'm Doing Now
 
-- 🔭 Building **Work Reminder** — shipping v1.4 with smarter schedules and better offline sync
-- 🧠 Learning **AI-assisted development** and applying it to real frontend workflows
-- 🧩 Exploring **Chrome extension architecture** — MV3, local-first tooling and audit automation
-- 🤝 Open for **remote freelance projects**: frontend builds, WordPress, landing pages and extension work
+- 🔭 Building **clean, responsive WordPress websites** with Elementor and ACF
+- 📚 Strengthening my **JavaScript and modern CSS** skills through real projects
+- ⚡ Learning more about **performance, accessibility and SEO**
+- 🤝 Open to **remote freelance projects** and collaborations
 
 <img width="100%" src="assets/divider.svg?v=3" alt="section divider" />
 
@@ -251,7 +235,7 @@ const nabin = {
 
 <div align="center">
 
-Have a project in mind, or just want to talk about frontend, WordPress or AI? My inbox is open.
+Have a project in mind, or just want to talk about WordPress and frontend development? My inbox is open.
 
 <br/><br/>
 
