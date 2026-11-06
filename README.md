@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg?v=3" width="100%" alt="Nabin Khadka, Frontend Engineer" />
+<img src="assets/hero.svg?v=1" width="100%" alt="Nabin Khadka, Frontend Engineer — animated developer console" />
 
 <br/>
 
@@ -19,6 +19,21 @@
 <a href="https://wa.me/9742483084" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%92%AC_WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
 </div>
+
+<img width="100%" src="assets/divider.svg?v=3" alt="section divider" />
+
+## 🧑‍💻 Developer Mode
+
+```ts
+const nabin = {
+  role: "Frontend Engineer",
+  location: "Tehrathum, Nepal",
+  focus: ["React 19", "TypeScript", "Tailwind CSS 4", "Vite", "TanStack"],
+  also: ["WordPress", "Elementor", "ACF", "Chrome MV3", "PWA"],
+  principle: "Ship fast, accessible interfaces that feel premium at first click.",
+  status: "open to remote work",
+} as const;
+```
 
 <img width="100%" src="assets/divider.svg?v=3" alt="section divider" />
 
@@ -207,6 +222,18 @@ I work mostly in **React 19, TypeScript, Tailwind CSS 4 and Vite**, with **TanSt
 <br/><br/>
 
 <img src="https://ghchart.rshah.org/00D9FF/Nabinkdk7" alt="Nabin's contribution calendar" width="95%" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<sub>Auto-generated every 12 hours by GitHub Actions — it eats my contribution graph.</sub>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Nabinkdk7/Nabinkdk7/output/github-snake-dark.svg" alt="Animated contribution snake" width="95%" />
 
 </div>
 
