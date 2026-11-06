@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero.svg?v=5" />
-  <img src="assets/hero-light.svg?v=1" width="100%" alt="Nabin Khadka, WordPress Developer" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero.svg?v=6" />
+  <img src="assets/hero-light.svg?v=2" width="100%" alt="Nabin Khadka, WordPress Developer" />
 </picture>
 
 **● Available for remote projects** &nbsp; <a href="https://nabinkhadka.com" title="Portfolio"><img src="assets/icons/portfolio.svg" width="18" height="18" align="absmiddle" alt="Portfolio" /></a> &nbsp; <a href="mailto:nabinkhadkaofficial5@gmail.com" title="Email"><img src="assets/icons/email.svg" width="18" height="18" align="absmiddle" alt="Email" /></a> &nbsp; <a href="https://www.linkedin.com/in/nabin-khadka3" title="LinkedIn"><img src="assets/icons/linkedin.svg" width="18" height="18" align="absmiddle" alt="LinkedIn" /></a> &nbsp; <a href="https://wa.me/9742483084" title="WhatsApp"><img src="assets/icons/whatsapp.svg" width="18" height="18" align="absmiddle" alt="WhatsApp" /></a>
